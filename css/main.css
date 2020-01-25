@@ -25,7 +25,7 @@ h1, h2, h3 {
 }
 
 header {
-  background-color: #83C9BB;
+  background-color: #83c9bb;
 
   text-align: center;
 }
@@ -68,12 +68,12 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #71ADA1;
+  background-color: #71ada1;
   color: #fff;
 }
 
 nav a.current {
-  background-color: #71ADA1;
+  background-color: #71ada1;
 }
 
 main {
@@ -84,7 +84,7 @@ footer {
   padding: .75em;
   color: #fff;
 
-  background-color: #71ADA1;
+  background-color: #71ada1;
 
   text-align: center;
 }
