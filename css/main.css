@@ -30,10 +30,12 @@ figcaption {
   outline-color: #fff;
   outline-width: medium;
   outline-style: solid;
-  font-size: 5em;
+  text-align: center;
   max-width: 15em;
   position: absolute;
-  bottom: 5rem;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 header {
