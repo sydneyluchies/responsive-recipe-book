@@ -10,12 +10,14 @@ html {
 }
 
 body {
-  margin: 0;
+  margin-top: 0;
+  margin-left: 10em;
+  margin-right: 10em;
 }
 
 figure {
   position: relative;
-  margin: 0;
+  margin-top: 1em;
 }
 
 .img-flex {
@@ -45,13 +47,15 @@ header {
 }
 
 h1 {
-  padding-top: .6em;
-  margin: 0;
+  padding-top: 1em;
+  margin-bottom: .25em;
   font-size: 3rem;
+  color: #fff;
 }
 
 nav {
   font-size: 1.125rem;
+  padding-bottom: .25em;
 }
 
 nav ul {
