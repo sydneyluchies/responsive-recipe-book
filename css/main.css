@@ -53,9 +53,29 @@ h1 {
   color: #fff;
 }
 
+.subtext {
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  background-color: #71ada1;
+  padding-top: .5em;
+  padding-bottom: .5em;
+  margin-top: 1em;
+}
+
 nav {
   font-size: 1.125rem;
   padding-bottom: .25em;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  text-align: center;
+}
+
+a p {
+  text-align: left;
 }
 
 nav ul {
@@ -90,10 +110,6 @@ nav a.current {
   background-color: #71ada1;
 }
 
-main {
-  padding: 0 .75em;
-}
-
 footer {
   padding: .75em;
   color: #fff;
@@ -111,4 +127,45 @@ footer small {
   background-color: #fff;
   border: 2px solid #83c9bb;
   border-radius: 8px;
+}
+
+.card-2 {
+  background-color: #fff;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.img-recipe {
+  margin-top: 1em;
+  display: block;
+  width: 40%;
+  position: relative;
+}
+
+.text-right {
+  padding-top: 1em;
+  text-align: left;
+  padding-left: 1em;
+}
+
+ol p {
+  margin-bottom: .5em;
+}
+
+p.tera {
+  padding-top: .5em;
+  margin-bottom: .75em;
+}
+
+h2.exa {
+  margin-bottom: .5em;
+}
+
+li {
+  list-style: circle;
+}
+
+ol.bullet {
+  padding-left: 1em;
 }
