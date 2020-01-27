@@ -40,6 +40,14 @@ figcaption {
   transform: translate(-50%, -50%);
 }
 
+h2.nina {
+  margin-bottom: .1em;
+}
+
+p.prep.tera {
+  margin-bottom: .4em;
+}
+
 header {
   background-color: #83c9bb;
 
